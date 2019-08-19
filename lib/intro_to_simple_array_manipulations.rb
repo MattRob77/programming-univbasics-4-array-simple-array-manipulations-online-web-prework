@@ -47,4 +47,6 @@ def using_shift(array)
     array.delete_at(2) 
      end 
 
+def using_insert(array)
+  
   
