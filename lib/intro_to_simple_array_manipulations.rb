@@ -48,7 +48,7 @@ def using_shift(array)
      end 
 
 def using_insert(array)
-  array.insert(new_element)
+  array.insert(new_element 4)
 end 
   
   
